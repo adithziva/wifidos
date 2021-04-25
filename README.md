@@ -37,7 +37,7 @@ for temporary. don't Misuse this tool***
 ★ ls
 ★ cd wifidos
 ★ ls
-★ python3 wifiblvck.py
+★ sudo python3 wifiblvck.py
 ```
 </br>
 
