@@ -1,4 +1,4 @@
-<h1 align="center">WifiDos</h1>
+<h1 align="center">WIFIDOS</h1>
 This is an simple tool for Kali used to dos a wifi
 for temporary. don't Misuse this tool
 
