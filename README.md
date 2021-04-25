@@ -1,6 +1,7 @@
 <h1 align="center">WIFIDOS</h1>
-This is an simple tool for Kali used to dos a wifi
-for temporary. don't Misuse this tool
+
+***This is an simple tool for Kali used to dos a wifi
+for temporary. don't Misuse this tool***
 
 <p align="center">
 <a href="https://github.com/adithziva"><img title="Made in kerala" src="https://img.shields.io/badge/MADE%20IN-KERALA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
@@ -47,6 +48,9 @@ for temporary. don't Misuse this tool
 <a href="http://github.com/adithziva"><img title="IMG" src="img/2.jpg" width="160" height="160"></a>
 </P>
 
+### REQUIREMENTS
+
+***WIFI ADAPTOR (monitor mode)***
 <h4 align="center">OWNER</h4>
 <p align="center">For more information contact on</p>
 
