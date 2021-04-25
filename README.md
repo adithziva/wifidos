@@ -47,11 +47,6 @@ for temporary. don't Misuse this tool
 <a href="http://github.com/adithziva"><img title="IMG" src="img/2.jpg" width="160" height="160"></a>
 </P>
 
-### TESTED ON
-<p align="center">TOOL ONLY WORK ON TERMUX..!</p>
-
-
-
 <h4 align="center">OWNER</h4>
 <p align="center">For more information contact on</p>
 
